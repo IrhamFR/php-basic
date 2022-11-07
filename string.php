@@ -1,5 +1,6 @@
 <?php
 
+# haha
 $namaDepan = "Ibnu"; # pakai tanda petik dua
 $namaBelakang = 'Jakaria'; # pakai tanda petik satu
 
